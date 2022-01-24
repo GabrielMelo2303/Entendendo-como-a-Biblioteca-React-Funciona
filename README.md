@@ -1,3 +1,7 @@
+# O que é este projeto:
+
+Este projeto é um Leitor de notas onde escrevemos notas como em um bloco de notas e cada bloco criado fica salvo em um CardNota com o seu Título e Texto.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
