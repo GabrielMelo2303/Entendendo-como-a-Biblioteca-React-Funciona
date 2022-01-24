@@ -1,0 +1,48 @@
+.formulario-cadastro{
+    margin-top: 20px;
+    display:  grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario-cadastro_input{
+    background-color: #1af0b0c4;
+    border-radius: 0 8px;
+    margin-top: 10px;
+    color: #000000 bold;
+    font-weight: 500;
+    width: 300px
+}
+.formulario-cadastro_divisão{
+    width:100%
+}
+
+.formulario-cadastro_textarea{
+    background-color: #1af0b0;
+    border-radius: 0 8px;
+    margin-top: 10px;
+    color: #000000 bold;
+    font-weight: 500;
+    width: 350px;
+}
+
+.formulario-cadastro_submit{
+    margin-top: 20px;
+    height: 30px;
+    border-radius: 0 8px;
+    font-weight: 500;
+    background: #f342fe;
+    color: #fff;
+    padding: 0 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 0;
+    transition: filter 0.2s
+}
+
+
+.formulario-cadastro_submit:hover{
+    filter: brightness(0.9);
+}
